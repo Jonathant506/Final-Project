@@ -1,0 +1,44 @@
+.nav ul{
+    border: lightsteelblue solid;
+        width: auto;
+        box-shadow: #000;
+        width: 100%;
+        height: 50px;
+        margin: 7px;
+        padding: 0%;
+        float: left;
+        list-style-type: none;
+        margin: auto;
+    }
+li{ display: inline;
+}
+
+.body{
+    border: lightsteelblue solid;
+        width: auto;
+        box-shadow: #000;
+    }
+
+aside{
+    border: lightsteelblue solid;
+        width: auto;
+        box-shadow: #000;
+    }
+
+section{
+    border: lightsteelblue solid;
+        width: auto;
+        box-shadow: rgba(176, 196, 222, 0.39) 5px 10px;
+    }
+
+article{
+    border: lightsteelblue solid;
+        width: auto;
+        box-shadow: rgba(176, 196, 222, 0.39) 5px 10px;
+    }
+
+footer{
+    border: lightsteelblue solid;
+        width: auto;
+        box-shadow: rgba(176, 196, 222, 0.39) 5px 10px;
+    }
